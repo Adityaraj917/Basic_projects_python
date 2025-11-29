@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import pyttsx3 as p
 
-key = "AIzaSyD........AXo"
+key = "AIzaSyD7.....G--g7Tw_tXEWAXo"
 # Replace with your actual API key
 
 genai.configure(api_key = key)
